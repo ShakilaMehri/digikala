@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "image": "/images/slider1.webp",
+      "buttons": [
+        {
+          "id": 1,
+          "link": "https://www.digikala.com",
+          "type": "btn-dark btn-circle"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "/images/slider1.webp",
+      "buttons": [
+        {
+          "id": 1,
+          "link": "https://www.digikala.com",
+          "type": "btn-dark btn-circle"
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "image": "/images/slider1.webp",
+        "buttons": [
+          {
+            "id": 1,
+            "link": "https://www.digikala.com",
+            "type": "btn-dark btn-circle"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "/images/slider1.webp",
+        "buttons": [
+          {
+            "id": 1,
+            "link": "https://www.digikala.com",
+            "type": "btn-dark btn-circle"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "image": "/images/slider1.webp",
+        "buttons": [
+          {
+            "id": 1,
+            "link": "https://www.digikala.com",
+            "type": "btn-dark btn-circle"
+          }
+        ]
+      }
+  ]

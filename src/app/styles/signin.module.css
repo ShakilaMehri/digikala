@@ -1,0 +1,60 @@
+.signinForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    direction: rtl;
+}
+
+.signinForms {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 300px;
+}
+
+.imgSignin {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.imgsSignin {
+    margin-right: 50px;
+}
+
+.parSignin {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.signinPut {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px
+}
+
+.signinButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer; 
+}
+
+.paraSignin {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    color: #888;
+}
+
+.signinLink {
+    color: blue;
+}

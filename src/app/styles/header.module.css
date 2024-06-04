@@ -1,0 +1,177 @@
+.header {
+  direction: rtl;
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.headerImage {
+  width: 100%;
+  height: auto;
+}
+
+.headerSearch {
+  margin-top: 20px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.searchBar {
+  position: relative;
+  margin-right: 10px;
+}
+
+.searchBox {
+  border-radius: 6px;
+  width: 512px;
+  height: 36px;
+  padding: 10px 35px 10px 10px;
+  border: 1px solid #ccc;
+}
+
+.searchIcon {
+  position: absolute;
+  color: #ccc;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.loginContainer {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: white;
+  width: 150px;
+  height: 36px;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+.loginImage {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+.loginLink {
+  margin-right: 5px;
+  color: #333;
+  text-decoration: none;
+}
+
+.separator {
+  margin-right: 5px;
+  color: #ccc;
+}
+
+.spanCart {
+  margin-right: 15px;
+  color: #ccc;
+}
+
+.cartIcon {
+  width: 24px;
+  height: 24px;
+  color: #333;
+}
+
+.navLists {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.navList {
+  display: flex;
+  align-items: center;
+}
+
+.linkLists {
+  margin-right: 10px;
+}
+
+.linkList {
+  margin-right: 30px;
+}
+
+.navLinks {
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+  margin-right: 20px;
+}
+
+.menuImg {
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.spanLink {
+  margin-right: 5px;
+  color: #ccc;
+}
+
+.navLink {
+  position: relative;
+}
+
+.imgLinks {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.imgList {
+  width: 24px;
+  height: 24px;
+  margin-right: 230px;
+}
+
+.listItemText {
+  margin-right: 10px;
+}
+
+.listItemTexts {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  padding: 8px 0;
+  z-index: 1000;
+  min-width: 200px;
+}
+
+.listItems {
+  padding: 8px 16px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.listItems:hover {
+  background-color: #f0f0f0;
+}
+
+.listItem {
+  margin-right: 20px;
+}

@@ -1,0 +1,15 @@
+
+.imgBar {
+    direction: rtl;
+}
+
+.imgBars {
+    display: flex;
+     margin-top: 30px;
+      width: 322px;
+}
+
+.imgItem {
+    margin-right: 13px;
+     border-radius: 8%;
+}

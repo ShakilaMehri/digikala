@@ -1,0 +1,25 @@
+
+.itemBar {
+    direction: rtl;
+}
+
+.itemBars {
+    display: flex;
+}
+
+.imgBar {
+    width: 60px;
+    margin-right: 80px;
+    margin-top: 20px;
+    
+}
+
+.itemImg {
+    margin-right: 70px;
+     margin-top: 20px;
+}
+
+.itemImgs {
+    margin-right: 90px;
+     margin-top: 20px; 
+}
