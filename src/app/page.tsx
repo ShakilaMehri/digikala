@@ -7,6 +7,7 @@ import dataSlider from "./_data/slider-data.json";
 import ImgBar from './components/imgItem';
 import "./globals.css";
 import Head from 'next/head';
+import OfferBar from './components/offerBar';
 
 
 const Page: React.FC = () => {
@@ -25,6 +26,7 @@ const Page: React.FC = () => {
     </main>
       <ItemBar/>
       <ImgBar/>
+      <OfferBar/>
     </div>
   );
 };
